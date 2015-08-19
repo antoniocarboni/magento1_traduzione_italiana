@@ -43,7 +43,7 @@ app/etc/local.xml.additional
 app/etc/local.xml.template
 app/etc/local.xml
 app/.htaccess
-app/locale/
+app/locale/en_US
 app/Mage.php
 /cron.php
 cron.sh
