@@ -1,6 +1,7 @@
 .htaccess.sample
 .modgit/
 .modman/
+app/code/community/
 app/code/community/Phoenix/
 app/code/community/Cm/
 app/code/core/
