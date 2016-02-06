@@ -3,5 +3,7 @@
 
 # except project files
 !.gitignore
-!app/etc/modules/italian_local.xml
-!app/locale/it_IT
+!app/etc/modules/Italian_locale.xml
+!app/locale/it_IT/*
+!composer.json
+!modman
