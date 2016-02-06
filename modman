@@ -1,0 +1,5 @@
+# set link for module file
+app/etc/modules/Italian_locale.xml          app/etc/modules/Italian_locale.xml
+
+# set the links for the locale files
+app/locale/it_IT/*                          app/locale/it_IT/
