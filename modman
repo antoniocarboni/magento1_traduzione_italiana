@@ -1,0 +1,8 @@
+# set link for module file
+app/etc/modules/Italian_locale.xml              app/etc/modules/Italian_locale.xml
+
+# core translations
+app/locale/it_IT/*.csv                          app/locale/it_IT/
+app/locale/it_IT/template/email/*.html          app/locale/it_IT/template/email/
+app/locale/it_IT/template/email/sales/*.html    app/locale/it_IT/template/email/sales/
+app/locale/it_IT/template/email/html/*.html     app/locale/it_IT/template/email/html/

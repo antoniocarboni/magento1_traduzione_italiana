@@ -1,0 +1,12 @@
+{
+    "name":        "antoniocarboni/italian-localepack-it-it",
+    "description": "Italian Community Translation",
+    "type":        "magento-module",
+    "license":     "MIT",
+    "authors": [
+        {
+            "name":  "Antonio Carbonari",
+            "email": "mail@antoniocarboni.com"
+        }
+    ]
+}
