@@ -6,4 +6,5 @@
 !app/etc/modules/Italian_locale.xml
 !app/locale/it_IT/*
 !composer.json
+!README.MD
 !modman
